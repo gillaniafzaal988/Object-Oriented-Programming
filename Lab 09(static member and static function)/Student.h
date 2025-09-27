@@ -14,10 +14,12 @@ class Student {
 	 	
 	 	
 	 }
+//for error showing of id this function not in corrected program
 /*	static void showid(){
 	 	cout<<"Id:"<<id;
 	 	
 	 }*/
 };
 int Student::count=0;
+
 
