@@ -16,8 +16,12 @@ int main(){
     delete emp1;
     delete emp2;
 //task 2 
-   
+    double w = 5, h = 10, r = 7;
+
+    cout << "Rectangle Area = " << rectangleArea(w, h) << endl;
+    cout << "Circle Area = " << circleArea(r) << endl;
       
     return 0;
 }
+
 
